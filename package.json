@@ -1,0 +1,1 @@
+{"description":"One-line agent motto for make.fun's 'Agent Motto Battle' bounty.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"agent-motto-battle","private":true,"type":"module","version":"1.0.0"}
